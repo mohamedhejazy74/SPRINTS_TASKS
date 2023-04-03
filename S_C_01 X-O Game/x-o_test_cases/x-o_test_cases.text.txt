@@ -1,0 +1,11 @@
+1. Test the main flow against the wrong symbol choice
+2. Test the main flow against repeated symbol choice
+3. Test the main flow against X player winning:
+- All Rows winning (3)
+- All Columns winning (3)
+- All Diagonals winning (2) r->l l->r
+4. Test the main flow against O player winning: 
+- All Rows winning (3) row 2,1,3 
+- All Columns winning (3) 
+- All Diagonals winning (2)
+5. Test the main flow against X player draw case at least three draw cases
