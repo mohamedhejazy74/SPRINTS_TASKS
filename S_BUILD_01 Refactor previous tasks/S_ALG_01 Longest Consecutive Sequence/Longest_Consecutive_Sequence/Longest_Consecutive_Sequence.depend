@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1680465093 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\longest_consecutive_sequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1680464641 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\longest_consecutive_sequence\main.h
+	"insertion_sort.h"
+	"lcs.h"
+
+1680461248 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\longest_consecutive_sequence\insertion_sort.c
+	"insertion_sort.h"
+
+1680462461 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\longest_consecutive_sequence\insertion_sort.h
+	<stdio.h>
+	<stdlib.h>
+
+1680465871 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\longest_consecutive_sequence\lcs.c
+	"lcs.h"
+
+1680462461 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\longest_consecutive_sequence\lcs.h
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1680461248 source:c:\new folder\sprint-bootcamp\02_c_programming\s_alg_01 longest consecutive sequence\longest_consecutive_sequence\insertion_sort.c
+	"insertion_sort.h"
+
+1680462461 c:\new folder\sprint-bootcamp\02_c_programming\s_alg_01 longest consecutive sequence\longest_consecutive_sequence\insertion_sort.h
+	<stdio.h>
+	<stdlib.h>
+
+1680466280 source:c:\new folder\sprint-bootcamp\02_c_programming\s_alg_01 longest consecutive sequence\longest_consecutive_sequence\lcs.c
+	"lcs.h"
+
+1680462461 c:\new folder\sprint-bootcamp\02_c_programming\s_alg_01 longest consecutive sequence\longest_consecutive_sequence\lcs.h
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1680557251 source:c:\new folder\sprint-bootcamp\02_c_programming\s_alg_01 longest consecutive sequence\longest_consecutive_sequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1680556617 c:\new folder\sprint-bootcamp\02_c_programming\s_alg_01 longest consecutive sequence\longest_consecutive_sequence\main.h
+	"insertion_sort.h"
+	"lcs.h"
+

@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1680451042 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1680062714 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1680062714 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\stack_h.h
+	<stdio.h>
+	<stdlib.h>
+
+1680272360 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\stack.c
+	"stack_h.h"
+
+1680271960 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\stack_test_cases.c
+	"stack_h.h"
+
+1680359562 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\test_stack.h
+	"stack_h.h"
+
+1680272853 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\test_stack.c
+	"test_STACK.h"
+
+1680451033 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\balanced.c
+	"balanced.h"
+
+1680451033 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\balanced.h
+	"stack_h.h"
+
+1680451033 d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\check_balanced_paranthethes_using_stack\main.h
+	"balanced.h"
+	"stack_h.h"
+	"test_STACK.h"
+
+1680466946 source:c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\balanced.c
+	"balanced.h"
+
+1680467269 c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\balanced.h
+	"stack_h.h"
+
+1680467204 c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\stack_h.h
+	<stdio.h>
+	<stdlib.h>
+	"test_STACK.h"
+
+1680451042 source:c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1680462076 c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\main.h
+	"balanced.h"
+	"stack_h.h"
+	"test_STACK.h"
+
+1680467269 c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\test_stack.h
+	"stack_h.h"
+
+1680466567 source:c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\stack.c
+	"stack_h.h"
+
+1680272853 source:c:\new folder\sprint-bootcamp\02_c_programming\check_balanced_paranthethes_using_stack\test_stack.c
+	"test_STACK.h"
+
+1680466946 source:c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\balanced.c
+	"balanced.h"
+
+1680542224 c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\balanced.h
+	"stack_h.h"
+
+1680467204 c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\stack_h.h
+	<stdio.h>
+	<stdlib.h>
+	"test_STACK.h"
+
+1680467269 c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\test_stack.h
+	"stack_h.h"
+
+1680451042 source:c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1680462076 c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\main.h
+	"balanced.h"
+	"stack_h.h"
+	"test_STACK.h"
+
+1680466567 source:c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\stack.c
+	"stack_h.h"
+
+1680272853 source:c:\new folder\sprint-bootcamp\02_c_programming\s_ds_01 check balanced paranthethes\check_balanced_paranthethes_using_stack\test_stack.c
+	"test_STACK.h"
+
