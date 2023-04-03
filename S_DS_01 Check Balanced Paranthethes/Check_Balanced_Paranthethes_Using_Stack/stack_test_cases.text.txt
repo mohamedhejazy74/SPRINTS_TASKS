@@ -1,0 +1,15 @@
+1. Create an empty stack
+2. Push 5 different characters to the stack
+3. Print all stack data
+4. Pop one character from the stack
+5. Print the stack's top
+6. Print all stack data
+7. Push another 7 different characters to the stack
+8. Print the stack's top
+9. Print all stack data
+10. Pop 4 characters from the stack
+11. Print the stack's top 
+12. Print all stack data
+13. Pop 7 more times from the stack
+14. Print the stack's top 
+15. Print all stack data
