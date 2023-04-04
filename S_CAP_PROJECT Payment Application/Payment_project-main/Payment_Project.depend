@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1680381093 source:c:\users\arafa\desktop\test_git\payment_project\main.c
+	"main.h"
+
+1680300876 c:\users\arafa\desktop\test_git\payment_project\terminal.h
+	"card.h"
+	"std_types.h"
+
+1680012300 c:\users\arafa\desktop\test_git\payment_project\std_types.h
+
+1680298817 source:c:\users\arafa\desktop\test_git\payment_project\terminal.c
+	"terminal.h"
+	<time.h>
+
+1674484120 source:c:\users\arafa\desktop\test_git\payment_project\card.c
+	"card.h"
+
+1680293147 c:\users\arafa\desktop\test_git\payment_project\card.h
+	"std_types.h"
+	<stdio.h>
+	<string.h>
+
+1674484120 source:c:\users\arafa\desktop\test_git\payment_project\card\card.c
+	"card.h"
+
+1680348564 c:\users\arafa\desktop\test_git\payment_project\card\card.h
+	"../std_types.h"
+	<stdio.h>
+	<string.h>
+
+1680379698 c:\users\arafa\desktop\test_git\payment_project\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Application/application.h"
+	"Test_Cases/testcase.h"
+
+1680340508 source:c:\users\arafa\desktop\test_git\payment_project\server\server.c
+	"server.h"
+
+1680353525 c:\users\arafa\desktop\test_git\payment_project\server\server.h
+	"../Terminal/terminal.h"
+
+1680353536 c:\users\arafa\desktop\test_git\payment_project\terminal\terminal.h
+	"../Card/card.h"
+	"../std_types.h"
+
+1680435156 source:c:\users\arafa\desktop\test_git\payment_project\terminal\terminal.c
+	"terminal.h"
+	<time.h>
+
+1680435618 source:c:\users\arafa\desktop\test_git\payment_project\test_cases\testcase.c
+	"testcase.h"
+
+1680339527 c:\users\arafa\desktop\test_git\payment_project\test_cases\testcase.h
+	"../Card/card.h"
+	"../Server/server.h"
+	"../Terminal/terminal.h"
+
+1680340858 c:\users\arafa\desktop\test_git\payment_project\application\application.h
+	"../server/server.h"
+
+1680347579 source:c:\users\arafa\desktop\test_git\payment_project\application\application.c
+	"application.h"
+
+1680437818 source:c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\application\application.c
+	"application.h"
+
+1680437818 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\application\application.h
+	"../server/server.h"
+
+1680437818 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\server\server.h
+	"../Terminal/terminal.h"
+
+1680437818 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\terminal\terminal.h
+	"../Card/card.h"
+	"../std_types.h"
+
+1680610943 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\card\card.h
+	<stdio.h>
+	<string.h>
+	"../std_types.h"
+
+1680437818 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\std_types.h
+
+1680615304 source:c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\card\card.c
+	"card.h"
+
+1680614858 source:c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\main.c
+	"main.h"
+
+1680437818 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Application/application.h"
+	"Test_Cases/testcase.h"
+
+1680437818 c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\test_cases\testcase.h
+	"../Card/card.h"
+	"../Server/server.h"
+	"../Terminal/terminal.h"
+
+1680437818 source:c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\server\server.c
+	"server.h"
+
+1680437818 source:c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\terminal\terminal.c
+	"terminal.h"
+	<time.h>
+
+1680609349 source:c:\new folder\sprint-bootcamp\02_c_programming\s_cap_project payment application\payment_project-main\test_cases\testcase.c
+	"testcase.h"
+
