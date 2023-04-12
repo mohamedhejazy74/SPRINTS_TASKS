@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff000000000c00000000030000dd020000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP w="800" x="68" flags="00000002" y="125" h="200" pid="0" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Message Column Width">671</ITEM>
+     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="Source Column Width">100</ITEM>
+     <ITEM name="Time Column Width">120</ITEM>
+     <ITEM name="Version">100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="666" x="569" flags="00000032" y="344" h="394" pid="1" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">116</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Item 0">"TCNT0","00800052",00000004,0000000E,82,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 1">"TIFR","00800058",00000004,0000000E,88,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 10">"u8_g_blinkMode_index","008000B9",00000004,0000000E,185,1,6,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 11">"u8_g_on_off_index","008000B8",00000004,0000000E,184,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 12">"u16_sg_timerTick","008000AA",00000004,0000000E,170,2,4,00000003,0,00000000,00000000</ITEM>
+     <ITEM name="Item 13">"u16_sg_delay_ms","008000A8",00000004,0000000E,168,2,4,00000003,0,00000000,00000000</ITEM>
+     <ITEM name="Item 14">"u8_sg_haltDelay","008000A7",00000004,0000000E,167,1,6,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 15">"OCR0","0080005C",00000004,0000000E,92,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 16">"TCCR0","00800053",00000004,0000000E,83,1,6,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 2">"TIMSK","00800059",00000004,0000000E,89,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 3">"SREG","0080005F",00000004,0000000E,95,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 4">"MCUCR","00800055",00000004,0000000E,85,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 5">"MCUCSR","00800054",00000004,0000000E,84,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 6">"GICR","0080005B",00000004,0000000E,91,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 7">"GIFR","0080005A",00000004,0000000E,90,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 8">"u8_g_pressCnt","008000A6",00000004,0000000E,166,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 9">"TCCR0","00800053",00000004,0000000E,83,1,0,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Name Column Width">208</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">No</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">Yes</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">240</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">139</ITEM>
+     <ITEM name="nItems">17</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="30" x="108" flags="00000008" y="165" h="16" pid="3" iid="4">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="8" x="128" flags="0000000a" y="185" h="1" pid="10" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="148" flags="0000000a" y="205" h="32" pid="6" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="168" flags="0000000a" y="225" h="32" pid="7" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="188" flags="00000000" y="245" h="32" pid="14" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="208" flags="0000000a" y="265" h="32" pid="4" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000060</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="228" flags="0000000a" y="285" h="8" pid="13" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000020</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="858" x="460" flags="0000002b" y="134" h="471" pid="1" iid="4">
+    <PROPERTIES>
+     <ITEM name="Breakpoint 0">"main",12C2,0000,28BC,477C,-1
+</ITEM>
+     <ITEM name="Breakpoint 1">"main",12C6,0004,B541,477C,-1
+</ITEM>
+     <ITEM name="CaseSensitive">No</ITEM>
+     <ITEM name="DISPADDRS">Yes</ITEM>
+     <ITEM name="DISPLNUMS">No</ITEM>
+     <ITEM name="DISPOPCODES">No</ITEM>
+     <ITEM name="FIXUPBPTS">Yes</ITEM>
+     <ITEM name="WordsOnly">No</ITEM>
+     <ITEM name="nBreakpoints">2</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="532" x="201" flags="0000000b" y="305" h="433" pid="2" iid="4">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">96</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">207</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowGlobals">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">No</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">No</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">96</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="695" x="166" flags="00000000" y="120" h="453" pid="0" iid="10">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="610" x="308" flags="00000000" y="272" h="466" pid="0" iid="11">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="695" x="760" flags="00008001" y="154" h="453" pid="0" iid="14">
+    <PROPERTIES/>
+   </POPUP>
+  </PWI>
+ </MODULE>
+</WORKSPACE>
