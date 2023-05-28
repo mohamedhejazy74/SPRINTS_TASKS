@@ -18,8 +18,8 @@ static volatile uint16_t u16_sg_charCountForTx;
 static volatile uint16_t u16_sg_charCountForRx;
 
 /* Global pointers to function to hold the address of the call back function in the upper layers */
-static Fptr_usartCallBack_t sg_bcmTx_callBackPtr = NULL;
-static Fptr_usartCallBack_t sg_bcmRx_callBackPtr = NULL;
+static Fptr_bcmtCallBack_t sg_bcmTx_callBackPtr = NULL;
+static Fptr_bcmtCallBack_t sg_bcmRx_callBackPtr = NULL;
 
 static void bcm_Tx_handler(void)
 {
