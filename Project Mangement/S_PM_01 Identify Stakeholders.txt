@@ -1,0 +1,9 @@
+Stakeholders are :
+
+-Costumer.
+-Card users
+-Project Management.
+-Team 
+-Project Sponsor 
+-Markets and business 
+-google maps
